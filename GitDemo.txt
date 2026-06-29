@@ -1,1 +1,10 @@
 Changing code from github instead of 2 eclipse project workspaces for practice and conveiniance
+
+Note: Unable to import this file in eclipse as extent reports project already exists
+
+Making change here in local and pushing the code to github repository
+
+First do git add * to add files to staging
+Then git commit -m to commit/save the files
+Finally git push origin master to push the code to github repository
+
