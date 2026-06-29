@@ -8,3 +8,6 @@ First do git add * to add files to staging
 Then git commit -m to commit/save the files
 Finally git push origin master to push the code to github repository
 
+git checkout -b develop ->to create a new branch
+git branch -> to see current/active branch
+
