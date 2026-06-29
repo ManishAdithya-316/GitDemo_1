@@ -11,3 +11,7 @@ Finally git push origin master to push the code to github repository
 git checkout -b develop ->to create a new branch
 git branch -> to see current/active branch
 
+make changes and add them using git add *
+Then git commit -m to commit/save the files
+Finally git push origin develop to push the code to the new develop branch in github repository
+
