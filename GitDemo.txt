@@ -15,3 +15,6 @@ make changes and add them using git add *
 Then git commit -m to commit/save the files
 Finally git push origin develop to push the code to the new develop branch in github repository
 
+git checkout master ->to switch back to master branch
+git merge develop ->to merge develop branch to the current active branch(master)
+
